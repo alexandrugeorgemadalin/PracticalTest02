@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">PracticalTest02</string>
+    <string name="server">SERVER</string>
+    <string name="server_port">PORT</string>
+    <string name="connect">CONNECT</string>
+    <string name="client">CLIENT</string>
+    <string name="client_address">ADDRESS</string>
+    <string name="client_port">PORT</string>
+    <string name="client_key">KEY</string>
+    <string name="client_value">VALUE</string>
+    <string name="add_button">ADD</string>
+    <string name="client_get_key">KEY</string>
+    <string name="get_button">GET VALUE</string>
+    <string name="client_get_value">VALUE</string>
 </resources>
